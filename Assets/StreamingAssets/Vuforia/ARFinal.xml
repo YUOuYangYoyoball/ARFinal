@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Fuji" size="1020.000000 1014.333313" />
+    <ImageTarget name="TOKYO2" size="1020.000000 817.824158" />
+    <ImageTarget name="Kyoto" size="1020.000000 813.691650" />
+    <ImageTarget name="SkyTree" size="1020.000000 679.690918" />
+    <ImageTarget name="Fushimi" size="1020.000000 678.763611" />
+    <ImageTarget name="FujiMtn" size="1020.000000 577.549683" />
+  </Tracking>
+</QCARConfig>
